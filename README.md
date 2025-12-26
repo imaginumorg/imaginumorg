@@ -1,65 +1,74 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dmkoxabbt/image/upload/v1766756480/company_logo_vrfrkd.jpg" alt="Imaginum Logo" width="150" />
+  <img src="https://res.cloudinary.com/dmkoxabbt/image/upload/v1766757687/linkedinbannerim_1_ghq9pt.png" />
 </p>
 
 <h1 align="center">Imaginum</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=2000&color=6B5CFF&center=true&vCenter=true&width=520&lines=Bridging+Ideas+with+Tech+Solutions;Engineering+Scalable+Digital+Products;Turning+Concepts+Into+Impact" 
-    alt="Typing Animation"
-  />
+  <img src="https://img.shields.io/badge/Status-Engineering%20Excellence-6B5CFF?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Sector-Product%20Studio-white?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 <p align="center">
-  We craft seamless, tech-driven solutions to solve real-world challenges through thoughtful design and strong engineering.
+  <b>Bridging Ideas with Tech Solutions.</b><br />
+  We craft seamless, tech-driven solutions to solve real-world challenges through<br />thoughtful design and strong engineering.
 </p>
 
 <p align="center">
-  🌐 <a href="https://imaginumorg.vercel.app/"><strong>imaginumorg.vercel.app</strong></a>
+  <a href="https://imaginumorg.vercel.app/"><strong>Explore Website —></strong></a>
 </p>
 
 ---
 
-## About Us
+## ✦ The Vision
+**Imaginum** is a technology company focused on building scalable, production-ready digital solutions. We partner with innovators, startups, and businesses to transform ideas into reliable and impactful products. 
 
-**Imaginum** is a technology company focused on building scalable, production-ready digital solutions.  
-We partner with innovators, startups, and businesses to transform ideas into reliable and impactful products.
-
----
-
-## Our Expertise
-
-- Full-Stack Web Development  
-- AI & Intelligent Automation  
-- Startup & MVP Engineering  
-- Scalable System Architecture  
-
-We emphasize clean code, performance, security, and long-term maintainability.
+We emphasize **clean code, performance, security, and long-term maintainability.**
 
 ---
 
-## Our Approach
+## 🛠 Strategic Expertise
+Our approach is design-led and problem-driven, utilizing a modern, proven tech stack to build for scale from day one.
 
-- Problem-driven development  
-- Modern, proven technologies  
-- Design-led engineering  
-- Built for scale from day one  
+#### **Engineering**
+- **Full-Stack Web Development:** High-performance applications built with Next.js and React.
+- **Scalable Architecture:** Distributed systems designed for resilience and growth.
+- **Startup & MVP Engineering:** Rapid, high-quality development to get your product to market.
+
+#### **Intelligence & Automation**
+- **AI Integration:** Leveraging intelligent automation to streamline complex workflows.
+- **Data Solutions:** Modern database management and real-time data processing.
 
 ---
 
-## Let’s Build Together
+## 📂 Featured Projects
+*Directly from the Imaginum ecosystem:*
 
-We collaborate with teams and organizations looking to create meaningful technology.
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Campus Mart** | A community-driven marketplace for students. | [View Project](https://imaginumorg.vercel.app/) |
+| **CabSync** | Intelligent ride-sharing and travel coordination. | [View Project](https://imaginumorg.vercel.app/) |
+| **CSED Website** | A unified digital hub for the CSED department. | [View Project](https://imaginumorg.vercel.app/) |
 
-👉 Start the conversation via our website.
+---
+
+## 🎯 Our Approach
+- **Problem-driven development:** We identify the "why" before the "how."
+- **Modern, proven technologies:** We use the tools that best suit the objective.
+- **Design-led engineering:** User experience is never an afterthought.
+- **Built for scale:** Our code is ready for your first million users.
+
+---
+
+## 🤝 Let’s Build Together
+We collaborate with teams and organizations looking to create meaningful technology. Start the conversation via our website to see how we can help your vision take shape.
+
+[**Get In Touch**](https://imaginumorg.vercel.app/)
 
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dmkoxabbt/image/upload/v1766756480/company_logo_vrfrkd.jpg" alt="Imaginum Logo" width="90" />
-</p>
-
-<p align="center">
-  © Imaginum — All rights reserved
+  <img src="https://res.cloudinary.com/dmkoxabbt/image/upload/v1766757687/company_logo_1_nx9xgd.png" alt="Imaginum Logo" width="80" />
+  <br />
+  <samp>© 2025 Imaginum — All rights reserved</samp>
 </p>
